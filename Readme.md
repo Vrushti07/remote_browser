@@ -13,10 +13,10 @@ A mini TeamViewer for the browser. Streams a headless Chromium instance to a web
 
 ## Setup
 
-\```bash
+```bash
 npm install
 docker build -t remote-browser .
 node server.js
-\```
+```
 
 Open http://localhost:8080, click **Start Browser**.
